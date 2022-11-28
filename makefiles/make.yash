@@ -1,3 +1,0 @@
-CC=/usr/local/Cellar/gcc/12.1.0/bin/g++-12
-CPPSETTINGS += -std=c++11 
-CPPFLAGS+= -O3 -Wno-all -Wno-deprecated -w -Wno-reorder -DNDEBUG -march=native
